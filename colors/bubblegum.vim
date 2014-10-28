@@ -76,7 +76,7 @@ hi PmenuSbar       ctermfg=231    ctermbg=244    guifg=#FFFFFF    guibg=#808080
 hi PmenuThumb      ctermbg=187    ctermfg=187    guibg=#D7D7AF    guifg=#D7D7AF
 hi WildMenu        ctermfg=71     ctermbg=237    cterm=none    guifg=#5FAF5F    guibg=#3A3A3A    gui=none
 
-hi Visual          ctermfg=bg     ctermbg=117    guifg=bg    guibg=#87D7FF
+hi Visual 	   ctermfg=NONE   ctermbg=240	 cterm=NONE  guifg=NONE guibg=#414549  guisp=#414549 gui=NONE
 hi VisualNOS       ctermfg=bg     ctermbg=116    guifg=bg    guibg=#87D7D7
 hi VertSplit       ctermfg=237    ctermbg=237    cterm=none    guifg=#3A3A3A    guibg=#3A3A3A    gui=none
 hi LineNr          ctermfg=244    ctermbg=237    guifg=#808080    guibg=#3A3A3A
