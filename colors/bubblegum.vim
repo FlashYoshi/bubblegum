@@ -30,13 +30,13 @@ hi Identifier      ctermfg=182    guifg=#D7AFD7
 hi Function        ctermfg=182    guifg=#D7AFD7
 
 " Keyword
-hi Statement       ctermfg=110    guifg=#87AFD7
-hi Conditional     ctermfg=110    guifg=#87AFD7
-hi Repeat          ctermfg=110    guifg=#87AFD7
-hi Label           ctermfg=110    guifg=#87AFD7
-hi Operator        ctermfg=110    guifg=#87AFD7
-hi Keyword         ctermfg=110    guifg=#87AFD7
-hi Exception       ctermfg=110    guifg=#87AFD7
+hi Statement       ctermfg=69    guifg=#87AFD7
+hi Conditional     ctermfg=69    guifg=#87AFD7
+hi Repeat          ctermfg=69    guifg=#87AFD7
+hi Label           ctermfg=69    guifg=#87AFD7
+hi Operator        ctermfg=69    guifg=#87AFD7
+hi Keyword         ctermfg=69    guifg=#87AFD7
+hi Exception       ctermfg=69    guifg=#87AFD7
 
 " Meta
 hi PreProc         ctermfg=150    guifg=#AFD787
@@ -46,10 +46,10 @@ hi Macro           ctermfg=150    guifg=#AFD787
 hi PreCondit       ctermfg=150    guifg=#AFD787
 
 " Type
-hi Type            ctermfg=146    guifg=#AFAFD7
-hi StorageClass    ctermfg=146    guifg=#AFAFD7
-hi Structure       ctermfg=146    guifg=#AFAFD7
-hi Typedef         ctermfg=146    guifg=#AFAFD7
+hi Type            ctermfg=140    guifg=#AFAFD7
+hi StorageClass    ctermfg=140    guifg=#AFAFD7
+hi Structure       ctermfg=140    guifg=#AFAFD7
+hi Typedef         ctermfg=140    guifg=#AFAFD7
 
 " Special
 hi Special         ctermfg=174    guifg=#D78787
